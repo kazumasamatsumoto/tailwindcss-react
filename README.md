@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 起動方法
+
+クローンしてきて
+npm i
+を実行すればOKです。
+
 ### `npm start`
 
 Runs the app in the development mode.\
